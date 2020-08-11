@@ -23,7 +23,6 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#️-status">Status</a> •
  <a href="#️-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#️-autor">Autor</a> • 
@@ -58,53 +57,34 @@ Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shiel
 ## ⚙️ Funcionalidades
 
 - [x] Rotas da API
-  - [x] classes
+  - [x] ./classes
     - [x] POST: cadastra professor, aula e horários
     - [x] GET: retorna professor, aula e horários, aplicando filtros por matéria, dia da semana e horário
-  - [x] connections
+  - [x] ./connections
     - [x] POST: incrementa contador de acessos
     - [x] GET: retorna contador de acessos
 
 ---
 
-## 🎨 Layout
-
-<!--
-- Landing Page
-<img alt="Landing Page" src="./readme/web1.jpg?raw=true">
-
-- Cadastro do professor, aula e horários
-<img alt="Landing Page" src="./readme/web2.jpg?raw=true">
-
-- Consulta de aulas
-<img alt="Landing Page" src="./readme/web3.jpg?raw=true">
--->
-🚧🚧 Em construção 🚧🚧
-
----
-
 ## 🚀 Como executar o projeto
 
-<!--
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/ErichComparin/Proffy-NLW2---ReactJS.git
+$ git clone https://github.com/ErichComparin/Proffy-NLW2---nodeJS.git
 
 # Acesse a pasta do projeto
-$ cd Proffy-NLW2---ReactJS
+$ cd Proffy-NLW2---nodeJS
 
 # Instale as dependências
 $ yarn install
 
-# Execute a aplicação
+# Inicie o servidor
 $ yarn start
 
-# A aplicação web será aberta na porta:3000 - acesse http://localhost:3000
+# O servidor será iniciado na porta 3333 - http://localhost:3333
 
 ```
--->
-🚧🚧 Em construção 🚧🚧
 
 ---
 
