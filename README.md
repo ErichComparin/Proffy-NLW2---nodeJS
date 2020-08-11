@@ -79,10 +79,10 @@ $ cd Proffy-NLW2---nodeJS
 # Instale as dependências
 $ yarn install
 
-# Inicie o servidor
+# Inicie a API
 $ yarn start
 
-# O servidor será iniciado na porta 3333 - http://localhost:3333
+# A API será iniciada na porta 3333 - http://localhost:3333
 
 ```
 
@@ -90,15 +90,15 @@ $ yarn start
 
 ## 🛠 Tecnologias
 
-<!--
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **API**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Axios](https://github.com/axios/axios)**
--->
-🚧🚧 Em construção 🚧🚧
+-   **[Express](https://expressjs.com/pt-br/)**
+    -   **[Cors](https://expressjs.com/en/resources/middleware/cors.html)**
+-   **[Knex](http://knexjs.org/)**
+-   **[Sqlite3](https://www.npmjs.com/package/sqlite3)**
 
 ---
 
