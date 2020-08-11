@@ -57,18 +57,13 @@ Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shiel
 
 ## ⚙️ Funcionalidades
 
-<!--
-- [x] Professores podem cadastrar:
-  - [x] perfil
-  - [x] aulas
-  - [x] horários
-
-- [x] Alunos podem buscar aulas de professores filtrando por: 
-  - [x] matéria
-  - [x] dia da semana
-  - [x] horário
--->
-🚧🚧 Em construção 🚧🚧
+- [x] Rotas da API
+  - [x] classes
+    - [x] POST: cadastra professor, aula e horários
+    - [x] GET: retorna professor, aula e horários, aplicando filtros por matéria, dia da semana e horário
+  - [x] connections
+    - [x] POST: incrementa contador de acessos
+    - [x] GET: retorna contador de acessos
 
 ---
 
