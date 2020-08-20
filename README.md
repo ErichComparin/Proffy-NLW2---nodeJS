@@ -91,7 +91,7 @@ $ yarn start
 ## 🛠 Tecnologias
 
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias/ferramentas foram usadas na construção do projeto:
 
 #### **API**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
